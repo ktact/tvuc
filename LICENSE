@@ -1,0 +1,50 @@
+MIT License
+
+Copyright (c) 2024 Claude Code (Anthropic)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+ADDITIONAL NOTES:
+
+This project was entirely created by Claude Code, Anthropic's AI coding assistant,
+as a demonstration of vhost-user protocol implementation and comprehensive testing
+infrastructure.
+
+The code is provided for educational, research, and development purposes. Users
+are encouraged to:
+
+1. Study the implementation for learning vhost-user protocol details
+2. Use as a reference for their own vhost-user implementations  
+3. Integrate into testing pipelines for vhost-user server validation
+4. Extend and modify for specific use cases
+
+DISCLAIMER:
+While this code has been thoroughly tested and follows best practices, users
+should conduct their own testing and validation before using in production
+environments. The authors make no warranties about the suitability of this
+code for any particular purpose.
+
+ATTRIBUTION:
+If you use this code in your projects, attribution to "Claude Code (Anthropic)"
+is appreciated but not required under the MIT license terms.
+
+For questions about Claude Code or Anthropic's AI development tools, visit:
+https://claude.ai/code

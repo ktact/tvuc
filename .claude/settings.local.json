@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./vhost_user_client /tmp/test-socket)",
+      "Bash(chmod:*)",
+      "Bash(./run_qemu_tests.sh:*)",
+      "Bash(make:*)",
+      "Bash(./start_qemu_vhost_server.sh:*)",
+      "Bash(./start_simple_server.sh:*)",
+      "Bash(./vhost_user_client /tmp/vhost-user-test-sock)",
+      "Bash(timeout:*)",
+      "Bash(cat:*)",
+      "Bash(find:*)"
+    ],
+    "deny": []
+  }
+}
