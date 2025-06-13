@@ -1,0 +1,114 @@
+# Compiled binaries
+vhost_user_client
+test_vhost_user_client
+test_vhost_user_qemu
+simple_vhost_server
+
+# Object files
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+
+# Compiler output
+*.a
+*.lib
+*.exe
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Core dumps
+core
+core.*
+
+# Runtime files
+*.pid
+*.log
+
+# Test artifacts
+/tmp/vhost-user-test-sock
+/tmp/qemu-vhost-test.pid
+/tmp/qemu-vhost-test.log
+/tmp/simple-vhost-server.pid
+/tmp/simple-vhost-server.log
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Package files
+*.tar.gz
+*.zip
+*.deb
+*.rpm
+
+# Coverage files
+*.gcov
+*.gcda
+*.gcno
+coverage.info
+coverage/
+
+# Profiling files
+gmon.out
+*.prof
+
+# Static analysis
+cppcheck-results.xml
+scan-build-*/
+
+# Temporary files
+.tmp/
+tmp/
+temp/
+
+# OS generated files
+.Trash-*
+.nfs*
+
+# Memory debugging
+valgrind-*.log
+*.valgrind
+
+# Performance analysis
+perf.data*
+*.perf
+
+# Documentation build artifacts
+docs/_build/
+site/
+
+# Local configuration files
+.env
+.env.local
+config.local
+
+# Cache directories
+.cache/
+__pycache__/
+
+# Test output
+test-results/
+test-output/
+*.tap
+*.junit.xml

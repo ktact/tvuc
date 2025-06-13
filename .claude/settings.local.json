@@ -10,7 +10,8 @@
       "Bash(./vhost_user_client /tmp/vhost-user-test-sock)",
       "Bash(timeout:*)",
       "Bash(cat:*)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(ls:*)"
     ],
     "deny": []
   }

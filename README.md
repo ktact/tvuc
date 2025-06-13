@@ -20,6 +20,7 @@ The test suite includes:
 - `start_qemu_vhost_server.sh` - QEMU server management script
 - `run_qemu_tests.sh` - Comprehensive test runner
 - `Makefile` - Build configuration
+- `.gitignore` - Version control configuration (excludes binaries)
 
 ## Prerequisites
 
