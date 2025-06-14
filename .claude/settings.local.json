@@ -11,7 +11,10 @@
       "Bash(timeout:*)",
       "Bash(cat:*)",
       "Bash(find:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(cp:*)",
+      "Bash(./switch_readme.sh status:*)",
+      "Bash(./switch_readme.sh:*)"
     ],
     "deny": []
   }

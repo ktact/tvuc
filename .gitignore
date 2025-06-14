@@ -56,6 +56,10 @@ dist/
 *.backup
 *.orig
 
+# README backup files (from language switching)
+README.*.bak
+README.backup.*
+
 # Package files
 *.tar.gz
 *.zip
